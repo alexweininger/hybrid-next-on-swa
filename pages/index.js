@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js on Azure samples!</a>
+          Hello, welcome to <a href="https://nextjs.org">Next.js on Azure samples!</a>
         </h1>
 
         <div className={styles.grid}>
